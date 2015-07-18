@@ -1,0 +1,93 @@
+
+#navigation_bar {
+  background-color: #474747;
+}
+
+#navtext {
+  color: #fff;
+}
+
+#doneCheckbox {
+	margin: 10px;
+}
+
+#deleteButton {
+	margin:0 20px;
+}
+
+#doneButton {
+	margin:20px;
+}
+
+#errorsAlert {
+	padding: 30px;
+}
+
+.item.done {
+  text-decoration: line-through;
+}
+
+#add {
+  font-size: 18px;
+}
+
+#header {
+  font: 3.5em "Shadows Into Light Two", cursive;
+}
+
+#login_form {
+  background-color: #fff;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+}
+
+#password_form {
+  background-color: #fff;
+  margin: 50px auto;
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+}
+
+#register_form {
+  background-color: #fff;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+}
+
+#items_list {
+	background-color: #fff;
+  margin: 100px auto;
+  width: 100%;
+  max-width: 1000px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+}
+
+#create_form {
+	background-color: #fff;
+  margin: 100px auto;
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+}
+
+
